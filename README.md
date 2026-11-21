@@ -83,6 +83,37 @@ MiMusica/
 
 La versión incluida fue compilada originalmente con el SDK de Horizon. Para recompilar necesitas tener instalado `cargo-horizon-mod`, el SDK compatible y el toolchain indicado en [`horizon-mod.toml`](horizon-mod.toml).
 
+## English
+
+### What is it?
+
+**Show the Lyrics Horizon** plays your own music in Minecraft and displays synchronized lyrics in the world or on screen. The mod is designed to work together with the **Mi Música** resource pack.
+
+> **Important:** if you want to listen to music, you must install [`MiMusica-1.13.0.zip`](MiMusica-1.13.0.zip) as well as the `.hmod` file. The mod alone does not include your personal songs.
+
+### Installation
+
+1. Download [`show-the-lyrics-horizon-1.13.1.hmod`](releases/show-the-lyrics-horizon-1.13.1.hmod) and [`MiMusica-1.13.0.zip`](MiMusica-1.13.0.zip).
+2. Install the `.hmod` in Horizon through **Options → Mods**, then enable **Show the Lyrics Horizon**.
+3. Extract `MiMusica-1.13.0.zip`. Copy the complete `MiMusica` folder into Minecraft's `resourcepacks` folder. You can open that folder from **Options → Resource Packs → Open Pack Folder**.
+4. Put your songs in `MiMusica/PON_TUS_CANCIONES_AQUI/`. Supported formats include `mp3`, `m4a`, `wav`, `flac`, `ogg`, `opus`, `webm` and `mp4`.
+5. Run `AGREGAR_CANCIONES.bat` to prepare new songs and search for synchronized lyrics. Run `PREPARAR_CANCIONES.bat` if you need to review or correct a song.
+6. Activate **Mi Musica** in **Options → Resource Packs**. If it was already enabled, press `F3 + T` to reload the resources.
+
+For better results, name files like `Artist - Title`. If you already have a synchronized `.lrc` file, place it beside the song using the same filename.
+
+### Main controls
+
+| Key | Action |
+|:---:|---|
+| `J` | Open the music menu |
+| `M` | Play or stop the current song |
+| `N` | Next song |
+| `B` | Previous song |
+| `K` | Show or hide lyrics |
+| `,` / `.` | Adjust lyric timing |
+| `O` | Take a photo |
+
 ## Créditos y licencia
 
 Creado por **Dinorap4009** y publicado bajo licencia **MIT**. No es un producto oficial de Mojang ni de Microsoft.
