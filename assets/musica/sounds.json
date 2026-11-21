@@ -1,0 +1,902 @@
+{
+ "cancion.1": {
+  "sounds": [
+   {
+    "name": "musica:canciones/1",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.2": {
+  "sounds": [
+   {
+    "name": "musica:canciones/2",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.3": {
+  "sounds": [
+   {
+    "name": "musica:canciones/3",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.4": {
+  "sounds": [
+   {
+    "name": "musica:canciones/4",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.5": {
+  "sounds": [
+   {
+    "name": "musica:canciones/5",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.6": {
+  "sounds": [
+   {
+    "name": "musica:canciones/6",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.7": {
+  "sounds": [
+   {
+    "name": "musica:canciones/7",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.8": {
+  "sounds": [
+   {
+    "name": "musica:canciones/8",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.9": {
+  "sounds": [
+   {
+    "name": "musica:canciones/9",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.10": {
+  "sounds": [
+   {
+    "name": "musica:canciones/10",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.11": {
+  "sounds": [
+   {
+    "name": "musica:canciones/11",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.12": {
+  "sounds": [
+   {
+    "name": "musica:canciones/12",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.13": {
+  "sounds": [
+   {
+    "name": "musica:canciones/13",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.14": {
+  "sounds": [
+   {
+    "name": "musica:canciones/14",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.15": {
+  "sounds": [
+   {
+    "name": "musica:canciones/15",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.16": {
+  "sounds": [
+   {
+    "name": "musica:canciones/16",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.17": {
+  "sounds": [
+   {
+    "name": "musica:canciones/17",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.18": {
+  "sounds": [
+   {
+    "name": "musica:canciones/18",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.19": {
+  "sounds": [
+   {
+    "name": "musica:canciones/19",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.20": {
+  "sounds": [
+   {
+    "name": "musica:canciones/20",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.21": {
+  "sounds": [
+   {
+    "name": "musica:canciones/21",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.22": {
+  "sounds": [
+   {
+    "name": "musica:canciones/22",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.23": {
+  "sounds": [
+   {
+    "name": "musica:canciones/23",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.24": {
+  "sounds": [
+   {
+    "name": "musica:canciones/24",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.25": {
+  "sounds": [
+   {
+    "name": "musica:canciones/25",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.26": {
+  "sounds": [
+   {
+    "name": "musica:canciones/26",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.27": {
+  "sounds": [
+   {
+    "name": "musica:canciones/27",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.28": {
+  "sounds": [
+   {
+    "name": "musica:canciones/28",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.29": {
+  "sounds": [
+   {
+    "name": "musica:canciones/29",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.30": {
+  "sounds": [
+   {
+    "name": "musica:canciones/30",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.31": {
+  "sounds": [
+   {
+    "name": "musica:canciones/31",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.32": {
+  "sounds": [
+   {
+    "name": "musica:canciones/32",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.33": {
+  "sounds": [
+   {
+    "name": "musica:canciones/33",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.34": {
+  "sounds": [
+   {
+    "name": "musica:canciones/34",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.35": {
+  "sounds": [
+   {
+    "name": "musica:canciones/35",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.36": {
+  "sounds": [
+   {
+    "name": "musica:canciones/36",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.37": {
+  "sounds": [
+   {
+    "name": "musica:canciones/37",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.38": {
+  "sounds": [
+   {
+    "name": "musica:canciones/38",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.39": {
+  "sounds": [
+   {
+    "name": "musica:canciones/39",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.40": {
+  "sounds": [
+   {
+    "name": "musica:canciones/40",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.41": {
+  "sounds": [
+   {
+    "name": "musica:canciones/41",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.42": {
+  "sounds": [
+   {
+    "name": "musica:canciones/42",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.43": {
+  "sounds": [
+   {
+    "name": "musica:canciones/43",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.44": {
+  "sounds": [
+   {
+    "name": "musica:canciones/44",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.45": {
+  "sounds": [
+   {
+    "name": "musica:canciones/45",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.46": {
+  "sounds": [
+   {
+    "name": "musica:canciones/46",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.47": {
+  "sounds": [
+   {
+    "name": "musica:canciones/47",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.48": {
+  "sounds": [
+   {
+    "name": "musica:canciones/48",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.49": {
+  "sounds": [
+   {
+    "name": "musica:canciones/49",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.50": {
+  "sounds": [
+   {
+    "name": "musica:canciones/50",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.51": {
+  "sounds": [
+   {
+    "name": "musica:canciones/51",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.52": {
+  "sounds": [
+   {
+    "name": "musica:canciones/52",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.53": {
+  "sounds": [
+   {
+    "name": "musica:canciones/53",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.54": {
+  "sounds": [
+   {
+    "name": "musica:canciones/54",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.55": {
+  "sounds": [
+   {
+    "name": "musica:canciones/55",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.56": {
+  "sounds": [
+   {
+    "name": "musica:canciones/56",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.57": {
+  "sounds": [
+   {
+    "name": "musica:canciones/57",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.58": {
+  "sounds": [
+   {
+    "name": "musica:canciones/58",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.59": {
+  "sounds": [
+   {
+    "name": "musica:canciones/59",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.60": {
+  "sounds": [
+   {
+    "name": "musica:canciones/60",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.61": {
+  "sounds": [
+   {
+    "name": "musica:canciones/61",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.62": {
+  "sounds": [
+   {
+    "name": "musica:canciones/62",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.63": {
+  "sounds": [
+   {
+    "name": "musica:canciones/63",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.64": {
+  "sounds": [
+   {
+    "name": "musica:canciones/64",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.65": {
+  "sounds": [
+   {
+    "name": "musica:canciones/65",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.66": {
+  "sounds": [
+   {
+    "name": "musica:canciones/66",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.67": {
+  "sounds": [
+   {
+    "name": "musica:canciones/67",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.68": {
+  "sounds": [
+   {
+    "name": "musica:canciones/68",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.69": {
+  "sounds": [
+   {
+    "name": "musica:canciones/69",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.70": {
+  "sounds": [
+   {
+    "name": "musica:canciones/70",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.71": {
+  "sounds": [
+   {
+    "name": "musica:canciones/71",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.72": {
+  "sounds": [
+   {
+    "name": "musica:canciones/72",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.73": {
+  "sounds": [
+   {
+    "name": "musica:canciones/73",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.74": {
+  "sounds": [
+   {
+    "name": "musica:canciones/74",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.75": {
+  "sounds": [
+   {
+    "name": "musica:canciones/75",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.76": {
+  "sounds": [
+   {
+    "name": "musica:canciones/76",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.77": {
+  "sounds": [
+   {
+    "name": "musica:canciones/77",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.78": {
+  "sounds": [
+   {
+    "name": "musica:canciones/78",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.79": {
+  "sounds": [
+   {
+    "name": "musica:canciones/79",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.80": {
+  "sounds": [
+   {
+    "name": "musica:canciones/80",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.81": {
+  "sounds": [
+   {
+    "name": "musica:canciones/81",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.82": {
+  "sounds": [
+   {
+    "name": "musica:canciones/82",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.83": {
+  "sounds": [
+   {
+    "name": "musica:canciones/83",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.84": {
+  "sounds": [
+   {
+    "name": "musica:canciones/84",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.85": {
+  "sounds": [
+   {
+    "name": "musica:canciones/85",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.86": {
+  "sounds": [
+   {
+    "name": "musica:canciones/86",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.87": {
+  "sounds": [
+   {
+    "name": "musica:canciones/87",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.88": {
+  "sounds": [
+   {
+    "name": "musica:canciones/88",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.89": {
+  "sounds": [
+   {
+    "name": "musica:canciones/89",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.90": {
+  "sounds": [
+   {
+    "name": "musica:canciones/90",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.91": {
+  "sounds": [
+   {
+    "name": "musica:canciones/91",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.92": {
+  "sounds": [
+   {
+    "name": "musica:canciones/92",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.93": {
+  "sounds": [
+   {
+    "name": "musica:canciones/93",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.94": {
+  "sounds": [
+   {
+    "name": "musica:canciones/94",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.95": {
+  "sounds": [
+   {
+    "name": "musica:canciones/95",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.96": {
+  "sounds": [
+   {
+    "name": "musica:canciones/96",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.97": {
+  "sounds": [
+   {
+    "name": "musica:canciones/97",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.98": {
+  "sounds": [
+   {
+    "name": "musica:canciones/98",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.99": {
+  "sounds": [
+   {
+    "name": "musica:canciones/99",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ },
+ "cancion.100": {
+  "sounds": [
+   {
+    "name": "musica:canciones/100",
+    "stream": true,
+    "preload": false
+   }
+  ]
+ }
+}

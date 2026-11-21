@@ -1,0 +1,10 @@
+[package]
+name = "mod-musica"
+version = "1.13.0"
+edition = "2024"
+
+[dependencies]
+horizon-mod-api = { path = ".horizon/sdk/api/crates/horizon-mod-api" }
+
+[package.metadata.horizon]
+sdk = "f037744a79f9982c47876f49c5a3067279f88706"
