@@ -9,7 +9,7 @@
   [![Último commit](https://img.shields.io/github/last-commit/redere1234/show-the-lyrics-horizon?style=for-the-badge)](https://github.com/redere1234/show-the-lyrics-horizon/commits/main)
   [![Licencia MIT](https://img.shields.io/badge/licencia-MIT-22c55e?style=for-the-badge)](LICENSE)
 
-  <a href="releases/show-the-lyrics-horizon-1.13.1.hmod">Descargar mod 1.13.1</a>
+  <a href="releases/musica.hmod">Descargar mod 1.13.1</a>
   ·
   <a href="#complemento-necesario-mi-música">Instalar Mi Música</a>
   ·
@@ -26,7 +26,7 @@
 
 ### Cómo instalar Mi Música
 
-1. Descarga el mod [`show-the-lyrics-horizon-1.13.1.hmod`](releases/show-the-lyrics-horizon-1.13.1.hmod) y el complemento [`MiMusica-1.13.0.zip`](MiMusica-1.13.0.zip).
+1. Descarga el mod [`musica.hmod`](releases/musica.hmod) y el complemento [`MiMusica-1.13.0.zip`](MiMusica-1.13.0.zip).
 2. Extrae `MiMusica-1.13.0.zip`. Dentro encontrarás una carpeta llamada `MiMusica`.
 3. Copia esa carpeta completa dentro de la carpeta `resourcepacks` de Minecraft. También puedes abrirla desde **Opciones → Paquetes de recursos → Abrir carpeta**.
 4. Mete tus canciones en `MiMusica/PON_TUS_CANCIONES_AQUI/`. Se admiten formatos como `mp3`, `m4a`, `wav`, `flac`, `ogg`, `opus`, `webm` y `mp4`.
@@ -39,7 +39,7 @@ Para obtener mejores resultados, usa nombres como `Artista - Título`. Si tienes
 
 ## Instalación del mod
 
-1. Descarga e instala el archivo `.hmod` desde [`releases/show-the-lyrics-horizon-1.13.1.hmod`](releases/show-the-lyrics-horizon-1.13.1.hmod).
+1. Descarga e instala el archivo `.hmod` desde [`releases/musica.hmod`](releases/musica.hmod).
 2. Abre Horizon y entra en **Opciones → Mods**.
 3. Activa **Show the Lyrics Horizon** y reinicia el juego si Horizon lo solicita.
 4. Instala y activa también el paquete de recursos **Mi Musica** siguiendo los pasos anteriores.
@@ -93,7 +93,7 @@ La versión incluida fue compilada originalmente con el SDK de Horizon. Para rec
 
 ### Installation
 
-1. Download [`show-the-lyrics-horizon-1.13.1.hmod`](releases/show-the-lyrics-horizon-1.13.1.hmod) and [`MiMusica-1.13.0.zip`](MiMusica-1.13.0.zip).
+1. Download [`musica.hmod`](releases/musica.hmod) and [`MiMusica-1.13.0.zip`](MiMusica-1.13.0.zip).
 2. Install the `.hmod` in Horizon through **Options → Mods**, then enable **Show the Lyrics Horizon**.
 3. Extract `MiMusica-1.13.0.zip`. Copy the complete `MiMusica` folder into Minecraft's `resourcepacks` folder. You can open that folder from **Options → Resource Packs → Open Pack Folder**.
 4. Put your songs in `MiMusica/PON_TUS_CANCIONES_AQUI/`. Supported formats include `mp3`, `m4a`, `wav`, `flac`, `ogg`, `opus`, `webm` and `mp4`.
