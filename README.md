@@ -4,7 +4,7 @@ Mod de Horizon para reproducir canciones propias dentro de Minecraft y mostrar s
 
 ## Mod listo para instalar
 
-El paquete compilado está en [`releases/show-the-lyrics-horizon-1.13.0.hmod`](releases/show-the-lyrics-horizon-1.13.0.hmod). Ese archivo es el que se puede subir a Horizon.
+El paquete compilado está en [`releases/show-the-lyrics-horizon-1.13.1.hmod`](releases/show-the-lyrics-horizon-1.13.1.hmod). Ese archivo es el que se puede subir a Horizon.
 
 ## Controles principales
 
@@ -24,11 +24,12 @@ Las canciones y sus letras se cargan desde el paquete de recursos **Mi Música**
 - `assets/`: fuentes, idiomas y recursos incluidos en el paquete compilado.
 - `mod.wasm`: binario compilado incluido en el `.hmod`.
 - `horizon-mod.toml`: metadatos de Horizon.
-- `releases/`: paquete `.hmod` listo para cargar.
+- `icon.png`: icono actual del mod (512×512).
+- `releases/`: paquetes `.hmod` listos para cargar.
 
 ## Compilación
 
-El paquete `.hmod` incluido corresponde a la versión `1.13.0` y conserva la compilación original del mod. Para recompilar desde el código fuente se necesita el SDK de Horizon y la herramienta `cargo-horizon-mod` configurados para el toolchain indicado en `horizon-mod.toml`.
+El paquete `.hmod` incluido corresponde a la versión `1.13.1` y conserva la compilación original del mod. Para recompilar desde el código fuente se necesita el SDK de Horizon y la herramienta `cargo-horizon-mod` configurados para el toolchain indicado en `horizon-mod.toml`.
 
 ## Licencia
 
