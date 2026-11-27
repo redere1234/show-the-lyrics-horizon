@@ -1,6 +1,6 @@
 id = "musica"
 name = "Show the Lyrics Horizon"
-version = "1.13.1"
+version = "1.14.0"
 description = "Escucha tus propias canciones dentro de Minecraft con la letra flotando al ritmo. J abre el menú, M reproduce, N siguiente, B anterior, K letras, coma y punto ajustan la letra de la canción, O saca una foto. Las canciones van en el paquete de recursos Mi Música."
 authors = ["Dinorap4009"]
 api = "0.2"
