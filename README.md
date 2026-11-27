@@ -5,7 +5,7 @@
 
   **Letras sincronizadas, música propia y estilo dentro de Minecraft.**
 
-  [![Versión](https://img.shields.io/badge/Horizon-1.13.1-7c3aed?style=for-the-badge)](horizon-mod.toml)
+  [![Versión](https://img.shields.io/badge/Horizon-1.14.1-7c3aed?style=for-the-badge)](horizon-mod.toml)
   [![Último commit](https://img.shields.io/github/last-commit/redere1234/show-the-lyrics-horizon?style=for-the-badge)](https://github.com/redere1234/show-the-lyrics-horizon/commits/main)
   [![Licencia MIT](https://img.shields.io/badge/licencia-MIT-22c55e?style=for-the-badge)](LICENSE)
 
