@@ -9,7 +9,7 @@
   [![Último commit](https://img.shields.io/github/last-commit/redere1234/show-the-lyrics-horizon?style=for-the-badge)](https://github.com/redere1234/show-the-lyrics-horizon/commits/main)
   [![Licencia MIT](https://img.shields.io/badge/licencia-MIT-22c55e?style=for-the-badge)](LICENSE)
 
-  <a href="releases/musica.hmod">Descargar mod 1.13.1</a>
+  <a href="releases/musica.hmod">Descargar mod 1.14.1</a>
   ·
   <a href="#complemento-necesario-mi-música">Instalar Mi Música</a>
   ·
